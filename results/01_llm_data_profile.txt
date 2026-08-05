@@ -1,0 +1,8 @@
+Dataset: 19256 rows, 11 features. Binary target, 40.2% positive.
+Features: ['AGE', 'ANNUALCONTRIBUTION', 'ANNUALCLAIMAMOUNT', 'UNITSTOTAL', 'GENDER_M', 'SCHEMETYPE_MEDIUM', 'SCHEMETYPE_PREMIUM', 'DIAGNOSIS_HYPERTENSION', 'COVERTYPE_STANDARD', 'COMORBIDITY_NO_COMORBIDITY', 'COMPLICATIONDEVELOPMENT_NO_COMPLICATION']
+Per-continuous-feature statistics:
+  AGE: dtype=int64, missing=0, unique=86, skew=0.15, IQR=[46.0,66.0], outliers=12, target_corr=+0.2372
+  ANNUALCONTRIBUTION: dtype=float64, missing=0, unique=10, skew=-0.68, IQR=[2718696.0,6889900.0], outliers=0, target_corr=+0.0437
+  ANNUALCLAIMAMOUNT: dtype=float64, missing=0, unique=18030, skew=111.25, IQR=[12298.9,102120.3], outliers=1959, target_corr=+0.0051
+  UNITSTOTAL: dtype=float64, missing=0, unique=1786, skew=99.20, IQR=[120.0,720.0], outliers=1243, target_corr=-0.0025
+7 binary features, 4 continuous. No missing values.
