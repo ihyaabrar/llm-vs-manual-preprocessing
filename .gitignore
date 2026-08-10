@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+
+# local execution log
+exec_log.txt
+exec2.log
+commit_all.sh
+commit_all.ps1
