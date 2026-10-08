@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or the frozen pipelines, please cite the article listed under preferred-citation."
+type: software
+title: "Frozen LLM-Generated Preprocessing for Medical-Claims Adherence Classification: code, frozen pipelines, and results"
+abstract: >-
+  Notebooks, frozen LLM-generated preprocessing code (DeepSeek, Claude Sonnet 4.6,
+  GPT-5.4, CAAFE), verbatim model responses, and result files supporting a
+  leakage-controlled comparison of frozen LLM-generated preprocessing against a
+  predefined Manual Expert workflow for medication-adherence classification on
+  the Cimas medical-claims dataset (Mendeley Data, CC0 1.0).
+authors:
+  - family-names: Yuliansyah
+    given-names: Herman
+    affiliation: "Universitas Ahmad Dahlan, Yogyakarta, Indonesia"
+  - family-names: Abrar
+    given-names: "Ihya' Nashirudin"
+    affiliation: "Universitas Ahmad Dahlan, Yogyakarta, Indonesia"
+  - family-names: Biddinika
+    given-names: Muhammad Kunta
+    affiliation: "Universitas Ahmad Dahlan, Yogyakarta, Indonesia"
+repository-code: "https://github.com/ihyaabrar/llm-vs-manual-preprocessing"
+license: MIT
+version: "1.0.0"
+keywords:
+  - large language models
+  - data preprocessing
+  - medication adherence
+  - clinical tabular data
+  - statistical equivalence
+  - LightGBM
+preferred-citation:
+  type: article
+  title: "Frozen LLM-Generated Preprocessing for Medical-Claims Adherence Classification: An Internal Model-Sensitivity Study"
+  authors:
+    - family-names: Yuliansyah
+      given-names: Herman
+    - family-names: Abrar
+      given-names: "Ihya' Nashirudin"
+    - family-names: Biddinika
+      given-names: Muhammad Kunta
+  journal: "Indonesian Journal of Electronics, Electromedical Engineering, and Medical Informatics"
+  year: 2026
+  status: in-press
