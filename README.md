@@ -1,5 +1,7 @@
 # Frozen LLM-Generated Preprocessing for Medical-Claims Adherence Classification
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23228032.svg)](https://doi.org/10.5281/zenodo.23228032)
+
 Code, frozen LLM pipelines, and results for the article
 
 > H. Yuliansyah, I. N. Abrar, and M. K. Biddinika, "Frozen LLM-Generated Preprocessing for
@@ -100,3 +102,12 @@ minutes each on a laptop CPU.
 
 Code is released under the MIT License (see `LICENSE`); the dataset remains under CC0 1.0.
 Citation metadata is in `CITATION.cff`.
+
+This repository is archived on Zenodo. To cite the code, use the concept DOI, which always
+resolves to the latest version:
+
+> H. Yuliansyah, I. N. Abrar, and M. K. Biddinika, "Frozen LLM-Generated Preprocessing for
+> Medical-Claims Adherence Classification: code, frozen pipelines, and results," Zenodo, 2026,
+> doi: 10.5281/zenodo.23228032.
+
+Version v1.0.0 specifically: doi: 10.5281/zenodo.23228033.
